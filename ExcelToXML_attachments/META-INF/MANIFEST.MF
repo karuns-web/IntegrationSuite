@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: ExcelToXML_attachments
 Bundle-SymbolicName: ExcelToXML_attachments; singleton:=true
-Bundle-Version: 1.0.6
+Bundle-Version: 1.0.7
 SAP-BundleType: IntegrationFlow
 SAP-NodeType: IFLMAP
 SAP-RuntimeProfile: iflmap
